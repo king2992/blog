@@ -147,6 +147,24 @@ footer {
     margin-top: 50px;
 }
 
+.button_area{
+    margin-top: 20px;
+}
+
+.button_area > button{
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    float: right;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button_area > button:hover{
+    box-shadow: 5px 5px 0px 0 rgba(0, 0, 0, 0.3);
+}
+
 /* ================signUp================ */
 
 
